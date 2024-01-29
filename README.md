@@ -1,4 +1,4 @@
-<img src="computer-illustration.png" width="350px" align="right" alt="notebook leoni">
+<img src="computer-illustration.png" width="350px" align="right">
 
 <h2 align="left"> 
   Olá, eu me chamo <i>Eduardo Demetrio</i> ! 🖖 
