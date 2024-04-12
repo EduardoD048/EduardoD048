@@ -32,11 +32,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<details>
-  <summary><strong>GitHub Status<strong/></summary>
-
-<img align="left" alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonisantosdev&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
-
-  <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leonisantosdev&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
-
-</details>
