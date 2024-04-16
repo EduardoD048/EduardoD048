@@ -4,7 +4,7 @@
   Olá, eu me chamo <i>Eduardo Demetrio</i> ! 🖖 
 </h2>
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996955362/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonisantosfernandes/)](https://www.linkedin.com/in/eduardo-demetrio-a4b09627b/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996955362/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/eduardo-demetrio-a4b09627b/)
 
 > Estudando e aprendendo todos os dias! 📖
 
