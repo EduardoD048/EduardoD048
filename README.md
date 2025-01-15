@@ -8,7 +8,7 @@
 > Estudando e aprendendo todos os dias! 📖
 
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas na Unisul Pedra Branca.  
-- 🇧🇷  Morando em Palhoça/SC, Brasil
+  
   
 <p align="left">
   ⚙️ <strong>Tecnologias:</strong>
