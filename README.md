@@ -1,7 +1,7 @@
 
 
 <h2 align="left"> 
-  Olá, eu me chamo <i>Eduardo</i> ! 🖖 
+  Olá, eu me chamo <i>Eduardo</i>
 </h2>
 
 
